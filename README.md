@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm sageio574 👋
 
-<!--
-**sageio574/sageio574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems developer based in Toronto. Spend most of my time writing Rust, digging into Linux kernel primitives, and experimenting with WebAssembly runtimes.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building lightweight CLI tools and network daemons in Rust
+- Experimenting with WASM/WASI for embeddable plugin runtimes
+- Tracing system performance with `perf` and `eBPF`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+- **Languages:** Rust, C, POSIX Shell
+- **Environment:** Linux, WebAssembly, Git, Docker, Neovim
+- **Focus:** Systems programming, low-level tooling, memory safety
+
+#### Reach out
+- Matrix: `@sageio:matrix.org`
+- Email: `sageio574@proton.me`
